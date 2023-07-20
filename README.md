@@ -24,18 +24,18 @@ You plug the lamp into USB and it will never turn off again. If the light turns 
 
 
 ### Current PCB release 
-[![usbups77_aelmaker](/Image/usbups7 (2).png "usbups77_aelmaker")](/Image/usbups7 (2).png "usbups77_aelmaker")  
-[![usbups77_aelmaker](/Image/usbups7 (1).png "cusbups77_aelmaker")](/Image/usbups7 (1).png "usbups77_aelmaker")
-[![usbups77_aelmaker](/Image/usbups7 (3).png "usbups77_aelmaker")](/Image/usbups7 (3).png "usbups77_aelmaker")  
+[![usbups77_aelmaker](/Image/usbups7(2).png "usbups77_aelmaker")](/Image/usbups7(2).png "usbups77_aelmaker")  
+[![usbups77_aelmaker](/Image/usbups7(1).png "cusbups77_aelmaker")](/Image/usbups7(1).png "usbups77_aelmaker")
+[![usbups77_aelmaker](/Image/usbups7(3).png "usbups77_aelmaker")](/Image/usbups7(3).png "usbups77_aelmaker")  
 
 ### Manufactured device
 
-[![usbups77_aelmaker](/Image/usbups7 (8).jpg "usbups77_aelmaker")](/Image/usbups7 (8).jpg "usbups77_aelmaker")
-[![usbups77_aelmaker](/Image/usbups7 (4).jpg "usbups77_aelmaker")](/Image/usbups7 (4).jpg "usbups77_aelmaker")
-[![usbups77_aelmaker](/Image/usbups7 (3).jpg "usbups77_aelmaker")](/Image/usbups7 (3).jpg "usbups77_aelmaker")
-[![usbups77_aelmaker](/Image/usbups7 (6).jpg "usbups77_aelmaker")](/Image/usbups7 (6).jpg "usbups77_aelmaker")
+[![usbups77_aelmaker](/Image/usbups7(8).jpg "usbups77_aelmaker")](/Image/usbups7(8).jpg "usbups77_aelmaker")
+[![usbups77_aelmaker](/Image/usbups7(4).jpg "usbups77_aelmaker")](/Image/usbups7(4).jpg "usbups77_aelmaker")
+[![usbups77_aelmaker](/Image/usbups7(3).jpg "usbups77_aelmaker")](/Image/usbups7(3).jpg "usbups77_aelmaker")
+[![usbups77_aelmaker](/Image/usbups7(6).jpg "usbups77_aelmaker")](/Image/usbups7(6).jpg "usbups77_aelmaker")
 [![usbups77_aelmaker](/Image/Screenshot_1.png "usbups77_aelmaker")](/Image/Screenshot_1.png "usbups77_aelmaker")
-
+    
 ### Case
 
 Case in files and sketchup
